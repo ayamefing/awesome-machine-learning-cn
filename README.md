@@ -1,8 +1,6 @@
 # 机器学习资源大全中文版
 
-> 原文：[机器学习资源大全中文版](https://github.com/jobbole/awesome-machine-learning-cn)
-
-> 作者：[jobbole](https://github.com/jobbole)
+> 本开源书 forked from [机器学习资源大全中文版](https://github.com/jobbole/awesome-machine-learning-cn)，作者为 [jobbole](https://github.com/jobbole)，欢迎大家 star 原作者的 [repo](https://github.com/jobbole/awesome-machine-learning-cn)，以便获得最新更新，谢谢！
 
 我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) 就是 josephmisiti 发起维护的机器学习资源列表，内容包括了机器学习领域的框架、库以及软件（按编程语言排序）。
 
